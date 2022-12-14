@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LR 3", "LR 3\LR 3.csproj", "{D4BBE5C5-3A15-467E-A9E7-C8545EC8A768}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "анганаш", "анганаш\анганаш.csproj", "{FA4F07DF-A56E-4074-BCCF-7140F2118F6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4BBE5C5-3A15-467E-A9E7-C8545EC8A768}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4BBE5C5-3A15-467E-A9E7-C8545EC8A768}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4BBE5C5-3A15-467E-A9E7-C8545EC8A768}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4BBE5C5-3A15-467E-A9E7-C8545EC8A768}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA4F07DF-A56E-4074-BCCF-7140F2118F6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA4F07DF-A56E-4074-BCCF-7140F2118F6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA4F07DF-A56E-4074-BCCF-7140F2118F6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA4F07DF-A56E-4074-BCCF-7140F2118F6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFC1045D-8F67-474A-B0DE-E2AF28D09CA0}
+	EndGlobalSection
+EndGlobal
